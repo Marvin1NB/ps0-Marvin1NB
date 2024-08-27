@@ -1,14 +1,14 @@
 """
 Course  : CMPSC 131, Fall 2024
-Name    : YOUR_NAME_HERE
-GitHub User:   YOUR_USER_HERE
+Name    : Marvin
+GitHub User:   Marvin1NB
 
 Collaboration Statement: HERE_IF_APPLIES
 """
 
 # Part 1
 """
-YOUR_ANSWER_HERE
+I am a soccer fan
 
 """
 
