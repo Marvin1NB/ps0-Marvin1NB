@@ -14,7 +14,7 @@ I am a soccer fan
 
 # Part 2
 """
-YOUR_ANSWER_HERE
+I am single
 
 """
 
