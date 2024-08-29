@@ -20,6 +20,6 @@ I am single
 
 # Part 3
 """
-YOUR_ANSWER_HERE
+I　am thin .
 
 """
